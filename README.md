@@ -19,3 +19,12 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 
 ### 🛠 Interested in:
 - Desktop, AI research, fronted, devOps, games.
+
+<br/>
+
+<a href="https://github.com/HaroldMontanoHurtado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
+<br/>
