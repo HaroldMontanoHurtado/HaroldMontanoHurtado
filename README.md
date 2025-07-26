@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 
 ### 💡 Goals for 2026:
 - Finish my list of 8 new programs.
+- Improve the languages I like (english, french)
 - Learn the basics of JavaScript, TypeScript, React and node
 - Become skilled in Fullstack and Cybersecurity
 - Grow as a person and profesional
