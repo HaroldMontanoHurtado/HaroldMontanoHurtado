@@ -8,8 +8,9 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 
 ### ✔️ I'm currently learning
-- Fullstack (JavaScript, React and node)
-- AWS Free Tier (Cloud)
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 
 ### 😍 What i like to do:
 - I like challenges, learning languages, LOGICAL PROBLEMS, helping, sharing and living
