@@ -1,20 +1,20 @@
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not studying or programming, I play some music and doing sport, I like about personal networks, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 ### ✔️ I'm currently learning
-- Kotlin (android development)
-- Java (desktop apps)
+- Fullstack (JavaScript, React and node)
+- AWS Free Tier (Cloud)
 
 ### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+- I like challenges, learning languages, LOGICAL PROBLEMS, helping, sharing and living
 
-### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person
+### 💡 Goals for 2026:
+- Finish my list of 8 new programs.
+- Learn the basics of JavaScript, TypeScript, React and node
+- Become skilled in Fullstack and Cybersecurity
+- Grow as a person and profesional
 
 ### ⚡ Relevant achievement
-- Enter the Francisco José de Caldas district university at a very low cost
+- Graduated of Universidad del Valle, Colombia.
 
 ### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, games, designer.
+- Desktop, AI research, fronted, devOps, games.
