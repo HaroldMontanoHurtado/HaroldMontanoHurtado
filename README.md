@@ -8,16 +8,16 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
 - 🛢 Database &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](#)
   [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
   [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 - ⚙️ Documentation &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#)
+  [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](#)
 - 💻 Code Editor &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
   [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  [![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)](#)
   [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
 - 📊 Data Science &nbsp;
   [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  [![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)](#)
 - 🖼️ Framework &nbsp;
   [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 - 💼 Job &nbsp;
@@ -38,14 +38,14 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 ### ✔️ I'm currently learning
 - 💻 &nbsp;
   [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](#)
+  [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](#)
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)](#)
+  [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](#)
+  [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](#)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](#)
 - ☁️ &nbsp;
   [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
   [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
