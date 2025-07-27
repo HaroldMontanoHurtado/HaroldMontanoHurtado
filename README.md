@@ -2,8 +2,8 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 
 ### 🧠 Tech Stack
 - 🧑‍💻 Programming Language &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](#)
+  [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](#)
   [![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
