@@ -81,7 +81,7 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 <br/>
 
 <a href="https://github.com/HaroldMontanoHurtado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldMontanoHurtado&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldMontanoHurtado&theme=buefy&layout=compact&langs_count=10" />
 </a>
 
 <br/>
