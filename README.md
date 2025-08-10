@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](#)
   [![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](#)
   [![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)](#)
-  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-  [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
 - 🛢 Database &nbsp;
   [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](#)
   [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -25,7 +23,6 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-  [![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)](#)
 - 🖼️ Framework &nbsp;
   [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 - 💼 Job &nbsp;
@@ -34,6 +31,10 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#).
   [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+
+<a href="[https://github.com/HaroldMontanoHurtado](https://github.com/HaroldMontanoHurtado)">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldMontanoHurtado&theme=buefy&layout=compact&langs_count=12" />
+</a>
 
 ### ✔️ I'm currently learning
 - 💻 &nbsp;
@@ -80,8 +81,6 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 
 <br/>
 
-<a href="[https://github.com/HaroldMontanoHurtado](https://github.com/HaroldMontanoHurtado)">
-  <img height="250em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldMontanoHurtado&theme=buefy&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/? username=HaroldMontanoHurtado&theme=buefy&layout=compact)" />
-</a>
+
 
 <br/>
