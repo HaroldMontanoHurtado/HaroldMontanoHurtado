@@ -49,7 +49,6 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
   [![Jira](	https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
 - 🛢 &nbsp;
   [![Cockroach](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)](#)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](#)
 - ☁️ &nbsp;
   [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
   [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
