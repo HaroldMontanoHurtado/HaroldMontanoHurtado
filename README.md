@@ -64,14 +64,14 @@ Welcome to my GitHub! I'm Harold Montano, a systems engineering. When I am not s
 - Finish my list of 8 new programs.
 - Improve the languages I like (english, french)
 - Learn the basics of JavaScript, TypeScript, React and node
-- Become skilled in Fullstack and Cybersecurity
+- Become skilled in QA and Cybersecurity
 - Grow as a person and profesional
 
 ### ⚡ Relevant achievement
 - Graduated of Universidad del Valle, Colombia.
 
 ### 🛠 Interested in:
-- Desktop, AI research, fronted, devOps, games.
+- Cibersecurity, devOps, games.
 
 ### 📱 Social Media
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
